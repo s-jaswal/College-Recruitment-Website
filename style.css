@@ -1001,9 +1001,10 @@ a {
 }
 
 .home-content_p {
-  max-width: 30em;
+  max-width: 33em;
   color: black;
   font-size: 1em;
+  text-align: left;
 }
 
 .home-content_image {
