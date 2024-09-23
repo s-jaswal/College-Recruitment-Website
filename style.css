@@ -139,7 +139,11 @@ footer {
 .row {
   display: flex;
   width: 100%;
-  margin-top: 90px;
+  margin-top: 10px;
+}
+
+.row text-center {
+  padding: 200px;
 }
 
 .column-1 {
@@ -1025,7 +1029,6 @@ a {
 
 .header {
   width: 100%;
-  margin-top: 5%;
   padding: 20px;
   font-size: 40px;
   text-align: center;
